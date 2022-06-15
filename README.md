@@ -1,12 +1,5 @@
-<div align="center">
-<img width="100%" height = "450px" src="https://swall.teahub.io/photos/small/88-885793_data-science.jpg" alt="cover" />
-</div>
 
-
-
-</p>
-
-<h1> Hello, I'am Shivani! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 50px> </h2>
+# Hello, I'am Shivani! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 50px> 
 
 
 <h2> 👩‍💻 About Me </h2>
