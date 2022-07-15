@@ -1,5 +1,5 @@
 
-# Hello, I'am Shivani! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 50px> 
+# Hello, I'm Shivani! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 50px> 
 
 
 <h2> 👩‍💻 About Me </h2>
